@@ -1,6 +1,6 @@
 <h1>
-  <img src="./logo-ImobXChange-Pro.png" alt="Logo ImobXChange Pro" width="45" height="45" align="bottom" />
-  ImobXchange Pro
+  <img src="./logo-brainsoft-connect.png" alt="Logo ImobXChange Pro" width="45" height="45" align="bottom" />
+  Brainsoft Connect
 </h1>
 # 💬 Chat de Suporte Brainsoft
 
