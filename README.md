@@ -5,7 +5,7 @@
 
 # 💬 Central de Suporte e Atendimento Brainsoft
 
-O **Brainsoft Connect** é o canal oficial de comunicação e suporte técnico desenvolvido para aproximar os usuários da equipe de atendimento da Brainsoft. Através de uma interface moderna e integrada, a aplicação garante um canal de ajuda rápido, seguro e sempre atualizado.
+O **Brainsoft Connect** é o canal oficial de comunicação e suporte técnico desenvolvido para aproximar os usuários do sistema IMOB aequipe de atendimento da Brainsoft. Através de uma interface moderna e integrada, a aplicação garante um canal de ajuda rápido, seguro e sempre atualizado.
 
 ---
 
