@@ -26,7 +26,7 @@ O **Brainsoft Connect** é o canal oficial de comunicação e suporte técnico d
 
 ---
 
-## 🛠️ Suporte e Contagio
+## 🛠️ Suporte
 
 Em caso de dúvidas sobre a instalação ou utilização do canal de atendimento, entre em contato com a equipe de suporte técnico da **Brainsoft Sistemas**.
 
